@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;spel1.grafik&apos; to &apos;Grafik&apos;&#x0D;&#x0A;- Original project: &apos;spel1&apos;&#x0D;&#x0A;- Original element: &apos;spel1.grafik&apos;&#x0D;&#x0A;- Renamed element: &apos;spel1.Grafik&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;grafik&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;spel1{grafik.java[grafik" matchStrategy="1" name="Grafik" qualified="false" references="true" similarDeclarations="false" stamp="1475660005597" textual="false" version="1.0"/>
+</session>
